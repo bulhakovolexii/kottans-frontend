@@ -1,6 +1,6 @@
 # Hello World
 
-> I am **Olexii Bulhakov** and this is a diary of my studies with [Kottans](https://kottans.org/).
+> I am **Olexii Bulhakov** and this is a diary of my studies with [Kottans][1].
 
 ## Contents
 
@@ -16,9 +16,8 @@ My impressions from the studied material:
 
 > The only contact I had with Git before was in the form of a single button in VScode that "did things" after clicking.
 > I perceived GitHub only as a cloud storage. Everything turned out to be much wider and deeper. The first tasks in
-> [Coursera](https://www.coursera.org/learn/introduction-git-github) and
-> [Learn Git Branching](https://learngitbranching.js.org/) gave more new questions than answers, but I see this as a big
-> plus, because I feel that the thirst for knowledge prompts me to work further.
+> [Coursera][2] and [Learn Git Branching][3] gave more new questions than answers, but I see this as a big plus, because
+> I feel that the thirst for knowledge prompts me to work further.
 
 ## Linux CLI, and HTTP
 
@@ -60,7 +59,11 @@ My impressions from the studied material:
 > since the entire lab process takes place on a test remote machine with an SSH connection. This practice helped a lot
 > to consolidate the studied material. Learning Git Branching helped to visualize all the difficult moments to make it
 > easier to imagine what happens after a particular command. In particular, it helped me realize that branches are in
-> three states at the same time, and until the fetch command is executed, the main, origin/main locally located, and
-> main remotely located branches can have different files and lines of code. I acquired more questions than answers, as
-> after the previous task, so I feel an urgent need to take each of the courses at least once more to consolidate the
-> material.
+> three states at the same time, and until the `fetch` command is executed, the `main`, `origin/main` locally located,
+> and `main` remotely located branches can have different files and lines of code. I acquired more questions than
+> answers, as after the previous task, so I feel an urgent need to take each of the courses at least once more to
+> consolidate the material.
+
+[1]: https://kottans.org/ "Kottans - Knowledge must be shared"
+[2]: https://www.coursera.org/learn/introduction-git-github "Introduction to Git and GitHub | Coursera"
+[3]: https://learngitbranching.js.org/ "Most visual and interactive way to learn Git on the web"
