@@ -64,6 +64,23 @@ My impressions from the studied material:
 > answers, as after the previous task, so I feel an urgent need to take each of the courses at least once more to
 > consolidate the material.
 
+## Intro to HTML and CSS
+
+Certificates of completed quizzes:
+
+- [Coursera | HTML, CSS, and Javascript for Web Developers](./task_html_css_intro/html_css_js_coursera.pdf) (305,7 kB)
+- [Learn HTML | Codecademy](./task_html_css_intro/html_codecademy.pdf) (47,9 kB)
+- [Learn CSS | Codecademy](./task_html_css_intro/html_css_js_coursera.pdf) (47,6 kB)
+
+> An enormous amount of time has passed since my last report, and I believe it is necessary to explain the reason.
+> Firstly, I received a scholarship to study front-end under the IT generation program. Participation in the competitive
+> selection required a lot of effort and time, but these investments were fully justified. Secondly, I set a goal for
+> myself, not only to pass the "sufficient" part of the courses offered but to master them completely and receive the
+> appropriate certificates of completion of the courses. I was not prepared for the fact that these courses will contain
+> the basics of OOP and Ajax, most of the material was not fully understood by me, and I will absolutely have to return
+> to this later. Now I want to continue my studies with the Kottans, in parallel with the IT generation, according to
+> the 2p2 scheme.
+
 [1]: https://kottans.org/ "Kottans - Knowledge must be shared"
 [2]: https://www.coursera.org/learn/introduction-git-github "Introduction to Git and GitHub | Coursera"
 [3]: https://learngitbranching.js.org/ "Most visual and interactive way to learn Git on the web"
