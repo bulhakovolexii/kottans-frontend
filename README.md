@@ -9,6 +9,7 @@
    - [Linux Survival](#linux-survival)
    - [HTTP Basics](#http-basics)
 2. [Git Collaboration](#git-collaboration)
+3. [Intro to HTML and CSS](#intro-to-html-and-css)
 
 ## Git Basics
 
@@ -73,13 +74,13 @@ Certificates of completed quizzes:
 - [Learn CSS | Codecademy](./task_html_css_intro/html_css_js_coursera.pdf) (47,6 kB)
 
 > An enormous amount of time has passed since my last report, and I believe it is necessary to explain the reason.
-> Firstly, I received a scholarship to study front-end under the IT generation program. Participation in the competitive
-> selection required a lot of effort and time, but these investments were fully justified. Secondly, I set a goal for
-> myself, not only to pass the "sufficient" part of the courses offered but to master them completely and receive the
-> appropriate certificates of completion of the courses. I was not prepared for the fact that these courses will contain
-> the basics of OOP and Ajax, most of the material was not fully understood by me, and I will absolutely have to return
-> to this later. Now I want to continue my studies with the Kottans, in parallel with the IT generation, according to
-> the 2p2 scheme.
+> Firstly, I received a scholarship to study front-end under the "IT Generation" program. Participation in the
+> competitive selection required a lot of effort and time, but these investments were fully justified. Secondly, I set a
+> goal for myself, not only to pass the "sufficient" part of the courses offered but to master them completely and
+> receive the appropriate certificates of completion of the courses. I was not prepared for the fact that these courses
+> will contain the basics of OOP and Ajax, most of the material was not fully understood by me, and I will absolutely
+> have to return to this later. Now I want to continue my studies with the Kottans, in parallel with the "IT
+> Generation", according to the 2p2 scheme.
 
 [1]: https://kottans.org/ "Kottans - Knowledge must be shared"
 [2]: https://www.coursera.org/learn/introduction-git-github "Introduction to Git and GitHub | Coursera"
