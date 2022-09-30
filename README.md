@@ -73,6 +73,8 @@ Certificates of completed quizzes:
 - [Learn HTML | Codecademy](./task_html_css_intro/html_codecademy.pdf) (47,9 kB)
 - [Learn CSS | Codecademy](./task_html_css_intro/html_css_js_coursera.pdf) (47,6 kB)
 
+My impressions from the studied material:
+
 > An enormous amount of time has passed since my last report, and I believe it is necessary to explain the reason.
 > Firstly, I received a scholarship to study front-end under the "IT Generation" program. Participation in the
 > competitive selection required a lot of effort and time, but these investments were fully justified. Secondly, I set a
