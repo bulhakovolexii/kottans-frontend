@@ -71,7 +71,7 @@ Certificates of completed quizzes:
 
 - [Coursera | HTML, CSS, and Javascript for Web Developers](./task_html_css_intro/html_css_js_coursera.pdf) (305,7 kB)
 - [Learn HTML | Codecademy](./task_html_css_intro/html_codecademy.pdf) (47,9 kB)
-- [Learn CSS | Codecademy](./task_html_css_intro/html_css_js_coursera.pdf) (47,6 kB)
+- [Learn CSS | Codecademy](./task_html_css_intro/css_codecademy.pdf) (47,6 kB)
 
 My impressions from the studied material:
 
