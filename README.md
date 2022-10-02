@@ -10,6 +10,7 @@
    - [HTTP Basics](#http-basics)
 2. [Git Collaboration](#git-collaboration)
 3. [Intro to HTML and CSS](#intro-to-html-and-css)
+4. [Responsive Web Design](#responsive-web-design)
 
 ## Git Basics
 
@@ -83,6 +84,19 @@ My impressions from the studied material:
 > will contain the basics of OOP and Ajax, most of the material was not fully understood by me, and I will absolutely
 > have to return to this later. Now I want to continue my studies with the Kottans, in parallel with the "IT
 > Generation", according to the 2p2 scheme.
+
+## Responsive Web Design
+
+Screenshots of completed quizzes:
+
+[Flex Froggy](./task_responsive_web_design/flexbox_froggy.png) (1.7 MB)
+[Grid Garden](./task_responsive_web_design/grid_garden.png) (389,4 kB)
+
+My impressions from the studied material:
+
+> Grid and Flex, are amazing technologies that made me want to put them into practice right away. Previously, I did a
+> responsive design practice with only floating elements, which I found to be a much less intuitive way. The open
+> question for me remains the use of Grid and Flex together, and when it is appropriate to use one of them.
 
 [1]: https://kottans.org/ "Kottans - Knowledge must be shared"
 [2]: https://www.coursera.org/learn/introduction-git-github "Introduction to Git and GitHub | Coursera"
