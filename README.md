@@ -89,8 +89,8 @@ My impressions from the studied material:
 
 Screenshots of completed quizzes:
 
-[Flex Froggy](./task_responsive_web_design/flexbox_froggy.png) (1.7 MB)
-[Grid Garden](./task_responsive_web_design/grid_garden.png) (389,4 kB)
+- [Flex Froggy](./task_responsive_web_design/flexbox_froggy.png) (1.7 MB)
+- [Grid Garden](./task_responsive_web_design/grid_garden.png) (389,4 kB)
 
 My impressions from the studied material:
 
