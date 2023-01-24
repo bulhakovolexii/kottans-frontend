@@ -98,6 +98,19 @@ My impressions from the studied material:
 > responsive design practice with only floating elements, which I found to be a much less intuitive way. The open
 > question for me remains the use of Grid and Flex together, and when it is appropriate to use one of them.
 
+## JS Basics
+
+Screenshots of completed courses:
+
+- [freeCodeCamp](./task_js_basics/freecodecamp-js-basics.jpg) (337 kB)
+
+My impressions from the studied material:
+
+> I have previously taken courses on the basics of the JavaScript language, but in the freeCodeCamp course I learned a
+> lot of new things, and the last task was frankly not easy for me. The fundamentals of functional programming and the
+> solution of algorithms using them caused particular difficulty. In many cases, I had to use the hint help. I hope in
+> the future it will become easier for me to navigate higher-order functions and array methods.
+
 [1]: https://kottans.org/ "Kottans - Knowledge must be shared"
 [2]: https://www.coursera.org/learn/introduction-git-github "Introduction to Git and GitHub | Coursera"
 [3]: https://learngitbranching.js.org/ "Most visual and interactive way to learn Git on the web"
