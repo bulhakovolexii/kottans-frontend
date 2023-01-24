@@ -11,6 +11,7 @@
 2. [Git Collaboration](#git-collaboration)
 3. [Intro to HTML and CSS](#intro-to-html-and-css)
 4. [Responsive Web Design](#responsive-web-design)
+6. [JS Basics](#js-basics)
 
 ## Git Basics
 
